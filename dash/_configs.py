@@ -29,7 +29,9 @@ def load_dash_env_vars():
                 'DASH_HOT_RELOAD_MAX_RETRY',
                 'DASH_SILENCE_ROUTES_LOGGING',
                 'DASH_PRUNE_ERRORS',
-                'DASH_COMPRESS'
+                'DASH_COMPRESS',
+                'HOST',
+                'PORT'
             )
         }
     )
